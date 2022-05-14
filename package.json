@@ -1,5 +1,5 @@
 {
-  "name": "zhou-performance",
+  "name": "zhou-statistic",
   "version": "0.0.1",
   "description": "性能、错误、访问等埋点监控上报",
   "main": "index.js",
