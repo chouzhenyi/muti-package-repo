@@ -2,7 +2,7 @@
   "name": "zhou-performance",
   "version": "0.0.1",
   "description": "性能、错误、访问等埋点监控上报",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
