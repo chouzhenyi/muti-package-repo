@@ -1,13 +1,16 @@
 {
-  "name": "@monorepo/algorithm",
+  "name": "@monorepo/actions",
   "version": "0.0.1",
-  "description": "学习算法",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "chou",
+  "devDependencies": {
+    "@monorepo/algorithm": "0.0.1"
+  },
+  "author": "",
   "license": "ISC"
 }
